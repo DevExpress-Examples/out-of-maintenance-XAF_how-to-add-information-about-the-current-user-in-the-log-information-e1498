@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax.cs](./CS/WebSolution.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/WebSolution.Web/Global.asax.vb))
+<!-- default file list end -->
 # How to add information about the current user in the log information
 
 
